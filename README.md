@@ -1,2 +1,3 @@
 # hello-github
-My first Gitbub repository
+this is My first Gitbub repository
+我正在学习Git和Github
